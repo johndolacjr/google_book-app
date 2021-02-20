@@ -1,11 +1,17 @@
+import React, { Component } from 'react';
+import Header from './Header';
+import Books from './Books';
+import './App.css';
 
-
-function App() {
-  return (
-    
-<h1>Hello World</h1>
-
-  );
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <Header />
+        <Books />
+      </div>
+    );
+  }
 }
 
 export default App;
