@@ -44,11 +44,11 @@ class Books extends Component {
 
     render() {
         const filteredBooks = this.state.books.sort((a, b) => {
-            if(this.state.sort == 'Newest'){
+            if(this.state.sort === 'Newest'){
                 console.log("in newest")
                 return parseInt(b.volumeInfo.publishedDate.substring(0, 4)) - parseInt(a.volumeInfo.publishedDate.substring(0, 4));
             }
-            else if(this.state.sort == 'Oldest'){
+            else if(this.state.sort === 'Oldest'){
                 return parseInt(a.volumeInfo.publishedDate.substring(0, 4)) - parseInt(b.volumeInfo.publishedDate.substring(0, 4));
             }
           
