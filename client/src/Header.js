@@ -4,7 +4,7 @@ const Header = () => {
   
     return (
       <header>
-        <i className="fas fa-book-reader fa-2x"></i>
+        <i className="fas fa-book fa-2x"></i>
         <h1>Google Book Search</h1>
       </header>
       

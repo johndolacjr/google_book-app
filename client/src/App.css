@@ -5,8 +5,8 @@
 
 header {
     padding: 30px 0 30px 0;
-    background: #343a40;
-    color: #fff;
+    background: #298bee;
+    color: rgb(31, 31, 31);
     text-align: center;
 }
 
@@ -36,8 +36,8 @@ select:focus
 
 .search-area button {
     display: inline;
-    background: #343a40;
-    color: #fff;
+    background:  #298bee;
+    color: rgb(31, 31, 31);
     border: none;
     padding: 8px 13px 10px 13px;
     margin: 0 15px 0 0;
@@ -96,8 +96,8 @@ img {
 }
 
 select {
-    background-color: #343a40;
-    color: #fff;
+    background-color:  #298bee;
+    color: rgb(31, 31, 31);
     height: 32px;
     width: 70px;
     position: relative;
