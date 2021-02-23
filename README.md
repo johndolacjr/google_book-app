@@ -17,8 +17,12 @@
 
 ![image](https://user-images.githubusercontent.com/69832533/108797974-d0bc5d00-7549-11eb-9a86-dd28f560101d.png)
 
-#Live Link
+# Future Development 
+ * Will be completing the build out of my 'View' and 'Save' feature
+
+# Live Link
   * https://rocky-springs-97887.herokuapp.com/
 
 # Contact Me
   * johndolacjr@gmail.com 
+  * View my Portfolio: https://damp-falls-18017.herokuapp.com/portfolio  
